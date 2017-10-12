@@ -1,0 +1,1 @@
+Le fichier devoir#2.txt contient qulques commandes exécutées sur matlab et une partie des tests efféctués . Nous avons choisi de ne pas mettre tous les tests car c'était redandant.
